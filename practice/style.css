@@ -1,0 +1,26 @@
+body{
+    background-color: turquoise;
+}
+
+/*this is not applicable */
+
+.sample{
+    text-decoration: underline;
+}
+
+#direct{
+    color:#AA3939;
+    text-align: center;
+    border: 10px solid rgba(200, 106, 106, 0.6);
+    cursor: pointer;
+}
+
+h1{
+    color: red;
+}
+
+#form{
+    border: 1px solid saddlebrown;
+    border-radius: 10px;
+    width:70%;
+}
